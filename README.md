@@ -7,14 +7,10 @@ I'm an undergraduate student in Computer Science at [UFMG](https://ufmg.br/inter
 [![luishgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=luishgh&show_icons=true&theme=github_dark&hide_rank=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luishgh&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Outside contributions
-
-- [GNU Guix](https://issues.guix.gnu.org/search?query=is%3A+closed+submitter%3A%22Luis+Henrique+Gomes+Higino%22)
-
----
 ### Other profiles
 
 - [Lattes](http://lattes.cnpq.br/8358867793759931)
+- [Codeberg](https://codeberg.org/luishgh)
 - [![AtCoder](https://badges.joonhyung.xyz/atcoder/luishgh.svg)](https://atcoder.jp/users/luishgh)
 - [![Codeforces](https://badges.joonhyung.xyz/codeforces/luishgh.svg)](https://codeforces.com/profile/luishgh)
 - [![Badge](https://www.codewars.com/users/luishgh/badges/small)](https://www.codewars.com/users/luishgh)
